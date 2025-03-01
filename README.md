@@ -17,9 +17,9 @@ Este projeto é uma página web para a comunidade de segurança Balle Bot. A pá
 </div>
 
 ###
-<div><h3 align="left"> Video do Projeto </h3></div>
+<div><h3 align="left"> Acesse o link do projeto </h3></div>
 
-https://github.com/user-attachments/assets/c5f703ef-8012-4e0c-b4ec-9adea9dbf64d
+https://roseanedasilva1212.github.io/pagina-web-ballebot/
 
 
 
